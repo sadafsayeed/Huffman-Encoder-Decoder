@@ -5,7 +5,6 @@
 #include <stack>
 
 // Sadaf Sayeed Chowdhury
-// Zahran Yahia Khan
 
 // Implementation of HuffmanNode member functions
 
